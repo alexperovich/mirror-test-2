@@ -5,3 +5,4 @@ Hi this is more stuff
 Adding even more shit
 
  -  Feature 2 has been added
+ -  Feature 3 has been added
